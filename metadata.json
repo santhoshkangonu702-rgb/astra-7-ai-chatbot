@@ -1,0 +1,6 @@
+{
+  "name": "ASTRA 7 — NEXUS 2040",
+  "description": "ASTRA 7 NEXUS 2040 — One Intelligence. Every Possibility. Futuristic 2040 AI Command Center with central Astra Core, multimodal intelligence, live search, code lab, document AI, and voice companion.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
